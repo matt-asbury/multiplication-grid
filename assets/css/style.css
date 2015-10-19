@@ -1,0 +1,30 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author:
+   ========================================================================== */
+
+table {margin-bottom: 20px;}
+
+    table input {max-width: 30px;}
+
+.correct {background-color: #DFF2BF !important; color: #4F8A10 !important;}
+
+.incorrect {background-color: #FFBABA !important; color: #D8000C !important;}
+
+a.button { padding: 10px; background-color: #ff6600; color: #fff; border: 5px solid #222222; font-weight: bold; font-size: 11px; text-transform: uppercase;
+    -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+            border-radius: 10px;
+}
+
+a.button:hover {background-color: #FF8D40; text-decoration: none;}
+
+
+
+
+
+
+
+
+
